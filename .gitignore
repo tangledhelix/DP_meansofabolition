@@ -1,0 +1,9 @@
+guiguts.log
+/zipdir
+/ebooks
+*.xcf
+*.pxm
+*.zip
+*.bin
+*.html
+*-utf8.txt
