@@ -6,6 +6,19 @@
 
 .dt American Slavery, and the Means of its Abolition, by Ward, Jonathan—A Project Gutenberg eBook
 
+.if h
+.de div.tnotes { padding-left:1em;padding-right:1em;background-color:#E3E4FA;border:1px solid silver; margin:2em 10% 0 10%; }
+.de .covernote { visibility: hidden; display: none; }
+.de div.tnotes p { text-align:left; }
+.de @media handheld { .covernote { visibility: visible; display: block;} }
+.dv class="tnotes covernote"
+<b>Transcriber's Note:</b>
+
+The cover image was created by the transcriber and is placed in the public domain.
+.dv-
+.if-
+
+.pb
 
 -----File: 001.png---------------------------------------------------------
 

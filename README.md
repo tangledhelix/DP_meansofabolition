@@ -24,7 +24,7 @@ No forum posts.
 
 ### Illustrations ###
 
-- [ ] iCover.jpg
+- [x] cover.jpg
 
 ### Things to revisit ###
 
