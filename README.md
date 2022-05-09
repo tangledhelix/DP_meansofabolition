@@ -14,7 +14,11 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Project manager notes ###
 
+No notes.
+
 ### Forum notes ###
+
+No forum posts.
 
 ### General notes ###
 
