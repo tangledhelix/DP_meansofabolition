@@ -24,6 +24,8 @@ No forum posts.
 
 ### Illustrations ###
 
+- [ ] iCover.jpg
+
 ### Things to revisit ###
 
 ### Proofer's notes ###
